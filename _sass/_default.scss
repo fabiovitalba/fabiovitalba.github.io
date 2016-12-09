@@ -1,6 +1,11 @@
 /* =Base */
 body {
-    font-family: 'Inconsolata', ;
+    //font-family: 'San Francisco Display', 'Arial', ;
+    @font-face {
+      font-family: 'SanFranciscoDisplay'; /*a name to be used later*/
+      src: url('../assets/vendor/font-awesome/fonts/sanfranciscodisplay.ttf'); /*URL to font*/
+    }
+    font-family: 'SanFranciscoDisplay', 'Arial';
     color: $iron;
     background-color: $dorian;
 }
