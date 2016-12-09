@@ -1,48 +1,29 @@
-# Dependencies
-markdown:	kramdown
-highlighter:	'pygments'
+# Site settings
+title: fabio vitalba
+description: >
+  A webjournal from the developer Fabio Vitalba who is documenting
+  his steps of becoming better at programming and learning new languages
+  and techniques.
 
-# Permalinks
-#permalink:	/blog/:title
-
-# Setup
-title:		fabio vitalba
-tagline:	'blog'
-description:	'My coding blog.'
-url:		http://fishinggiraffe.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 author:
-  name:		'Fabio Vitalba'
-  url:		https://github.com/fabiovitalba
-  email:  fabio.vitalba@fishinggiraffe.com
+  fullname: Fabio Vitalba
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: fabiovitalba
+  twitter: fabiovitalba
+  # disqus: your_disqus_forum_shortname
 
-paginate:	5
+# google_analytics: 'UA-XXXXXXXX-X'
 
-# Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
+# Syntax highlighting
+highlightstyle: ''
+styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.light, atelier-dune.dark, atelier-dune.light, atelier-estuary.dark, atelier-estuary.light, atelier-forest.dark, atelier-forest.light, atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-plateau.dark, atelier-plateau.light, atelier-savanna.dark, atelier-savanna.light, atelier-seaside.dark, atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper, codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, github-gist, googlecode, grayscale, hopscotch, hybrid, idea, ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark, paraiso.light, pojoaque, railscast, rainbow, school_book, solarized_dark, solarized_light, styles_list.txt, sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eightie, v, xcode, zenburn]
 
-social:
-  - icon:	twitter
-    url:	https://twitter.com/fabiovitalba
-    desc:	Follow me on twitter
+# Handling Reading
+exclude: ["README.md", "README.html"]
 
-  - icon:	github
-    url:	https://github.com/fabiovitalba
-    desc:	Fork me on github
-
-twitter_username: fabiovitalba
-github_username:  fabiovitalba
-
-menu:
-  - title:	Home
-    url:	/
-
-  - title:	About
-    url:	/about
-
-copyright:
-  author:	Fabio Vitalba
-  url:		http://fishinggiraffe.com
-#  type_title:	Some rights reserved
-#  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+# Build settings
+highlighter: null
+markdown: kramdown
