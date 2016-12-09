@@ -1,26 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-subtitle: "Feel home!"
-date:   2015-09-06 23:34:01
-categories: [design, tool]
+title:  "Getting Started"
+subtitle: "with rust"
+date:   2016-12-09 21:27:14
+categories: [casual, rust]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+So I've finally started using GitHub more and decided that it is time for me to give me a reason to code more frequent. I've picked up a few programming languages already, but I've grown to like rust more than any other language I have yet encountered. And this without really being able to code a fully working rust program from scratch.
+So I thought I should give myself some reason to learn rust, to do some small Projects, to maybe even help others that are in the same spot as me. We'll see what time has in store for me and this Blog.
+For now you will have to be satisfied by this introduction post.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+The only rust Project that I can show you for now is my [text-splitter]:https://github.com/fabiovitalba/file_splitter, which I used to divide the plaintext export of a NAV Database into manageable and (most of all) searchable chunks. I needed this since the software I usually use only works for 2013 and onwards. 

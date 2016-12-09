@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: rust
+  name: rust
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: casual
+  name: Casual

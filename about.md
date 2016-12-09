@@ -1,12 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Fabio Vitalba (fishinggiraffe.com)
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am an Italian based Microsoft Dynamics NAV developer. I live in South Tyrol and speak german, italian and english. I started programming when I was about 14 years old, but have always been very into computers and playing with them. One of the first video games I've really gotten into was Sacred (an isometric Action RPG).
+Since then my tastes have changed a little, I'm now an active World of Warcraft player and try to learn new languages or techniques as much as I can. Although I admit, that I have been doing a poor job of that for the last few years, since I started working as a full time developer.
