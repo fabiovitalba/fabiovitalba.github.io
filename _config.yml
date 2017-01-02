@@ -10,12 +10,8 @@ url: "" # the base hostname & protocol for your site
 
 author:
   fullname: Fabio Vitalba
-  #googleplus: https://www.google.com/+MotaquillahMaddane
   github: fabiovitalba
   twitter: fabiovitalba
-  # disqus: your_disqus_forum_shortname
-
-# google_analytics: 'UA-XXXXXXXX-X'
 
 # Syntax highlighting
 highlightstyle: 'monokai_sublime'
@@ -25,5 +21,5 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 exclude: ["README.md", "README.html"]
 
 # Build settings
-highlighter: null
 markdown: kramdown
+highlighter: null
